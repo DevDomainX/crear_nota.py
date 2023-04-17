@@ -1,0 +1,22 @@
+# crear_nota.py
+scrip sencillo para crear archivos txt solo ingresando datos y se crea y guarda automaticamente
+
+# Intelacion:
+
+# git clone https://github.com/HansSaldias/crear_nota.py
+
+# ls
+
+# cd crear_nota.py
+
+# ls
+
+# chmod +x crear_nota.py
+
+# ls
+
+# python3 crear_nota.py
+
+# scrip ideal para crear diccionarios de fuerza bruta
+
+# espero que les sirva gracias... 
