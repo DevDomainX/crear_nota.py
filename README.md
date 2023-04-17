@@ -5,7 +5,7 @@ intalacion:
 
 apt update && apt upgrade
 
-https://github.com/HansSaldias/crear_nota.py
+git clone https://github.com/HansSaldias/crear_nota.py
 
 cd crear_nota.py
 
